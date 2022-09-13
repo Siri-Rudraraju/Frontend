@@ -1,2 +1,0 @@
-# Frontend
-HTML Application
